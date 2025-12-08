@@ -22,7 +22,7 @@ This is a **regression problem**, and the notebook includes:
 
 ## Dataset
 
-The dataset contains audio features for thousands of Spotify tracks, including:
+The dataset contains audio features for 170,000+ of Spotify tracks, including:
 
 - `danceability`
 - `energy`
@@ -37,19 +37,19 @@ The dataset contains audio features for thousands of Spotify tracks, including:
 - **Target:** `popularity` (0–100)
 
 **Note:**  
-The dataset is not included in this repository due to size constraints.  
-You can download the dataset from Kaggle here:  
-*[Insert Kaggle dataset link]*
+
+You can also download the raw dataset from Kaggle here:  
+*[https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db ]*
 
 ---
 
 ## Goals
 
-- Determine which audio features most strongly influence popularity  
-- Compare regression models taught in the course  
-- Evaluate models using RMSE, MAE, and R²  
-- Identify the best-performing model  
-- Provide insights for music analytics and recommendation systems
+- Determine which audio features most strongly influence popularity,  
+- Compare regression models taught in the course,   
+- Evaluate models using RMSE, MAE, and R-squared,   
+- Identify the best-performing model,  
+- Provide insights for music analytics and recommendation systems.
 
 ---
 
@@ -61,12 +61,13 @@ This project uses models covered in the Machine Learning course, including:
 - Multilinear Regression
 - k-Nearest Neighbors Regression (kNN)
 - Decision Tree Regression
-- Random Forest Regression
-- Bagging Regressor
-- Gradient Boosting Regressor
-- Support Vector Regression (SVR)
 
 ---
 
-## 📄 Files Included
+## Files Included
+
+- Intro to Machine Learning_Final Project Jupyter Notebook,
+- SpotifyTracksDataset.Popular.csv,
+- Final Project Presentation Slides,
+- Final Project Presentation.mp4.
 
