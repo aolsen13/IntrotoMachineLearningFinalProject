@@ -69,6 +69,5 @@ This project uses models covered in the Machine Learning course, including:
 - Intro to Machine Learning_Final Project Jupyter Notebook,
 - SpotifyTracksDataset.Popular.csv,
 - FinalProject_Slides.pdf,
-- README.md
-- FinalProjectPresentation.mp4.
+- README.md.
 
