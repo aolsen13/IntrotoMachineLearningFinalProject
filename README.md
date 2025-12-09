@@ -58,7 +58,6 @@ You can also download the raw dataset from Kaggle here:
 This project uses models covered in the Machine Learning course, including:
 
 - Linear Regression
-- Multilinear Regression
 - k-Nearest Neighbors Regression (kNN)
 - Decision Tree Regression
 
