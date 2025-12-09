@@ -2,7 +2,7 @@
 
 This project uses supervised machine learning techniques to predict a song's popularity score (0–100) based on its audio features such as danceability, energy, loudness, valence, tempo, and more. The analysis includes exploratory data analysis (EDA), data preprocessing, multiple regression models, and final evaluation.
 
-This work was completed as the Final Project for the Machine Learning course (Fall 2025).
+This work was completed as the Final Project for the Introduction to Machine Learning: Supervised Learning course (DTSA 5509, October 2025).
 
 ---
 
@@ -70,5 +70,5 @@ This project uses models covered in the Machine Learning course, including:
 - SpotifyTracksDataset.Popular.csv,
 - FinalProject_Slides.pdf,
 - README.md
-- Final Project Presentation.mp4.
+- FinalProjectPresentation.mp4.
 
